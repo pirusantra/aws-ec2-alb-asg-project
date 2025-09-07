@@ -1,4 +1,4 @@
-# aws-ec2-alb-asg-project
+# Project 1: Scalable Web Application with ALB and Auto Scaling
 
 This project serves a static web page from Amazon EC2 instances. The infrastructure is designed to be resilient and to handle varying levels of traffic by automatically adjusting the number of instances based on demand.
 
